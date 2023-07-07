@@ -7,3 +7,8 @@ Now, line 5 equals a second commit, so it should be registered in the history lo
 Finally, line 7 ia third and final commit so as to display a three-commit history.
 
 ENDS
+
+STARTS AGAIN
+
+Made mistakes: did not explained the changes in the commit messages. Looking for the corresponding tab.
+It appears that the command is avaible when clicking the gree Commit changes button and a popup dsiplay the 'commit message' input.
