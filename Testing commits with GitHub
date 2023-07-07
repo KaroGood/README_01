@@ -12,3 +12,6 @@ STARTS AGAIN
 
 Made mistakes: did not explained the changes in the commit messages. Looking for the corresponding tab.
 It appears that the command is avaible when clicking the gree Commit changes button and a popup dsiplay the 'commit message' input.
+
+FROM NOW ON
+I am writing on a new branch derived from main. THe branch is called Branch-1.
