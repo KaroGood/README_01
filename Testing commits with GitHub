@@ -3,3 +3,7 @@ TESTING COMMITS WITH GITHUB
 The purpose of the file is to make commits to experiment making them, then view how history of them appears.
 
 Now, line 5 equals a second commit, so it should be registered in the history log.
+
+Finally, line 7 ia third and final commit so as to display a three-commit history.
+
+ENDS
